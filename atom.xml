@@ -3,13 +3,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>Tom Preston-Werner</title>
+ <title>Nef</title>
  <link href="http://nefter.js.org/atom.xml" rel="self"/>
  <link href="http://nefter.js.org"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
  <id>http://nefter.js.org/</id>
  <author>
-   <name>Test</name>
+   <name>Nef</name>
    <email>email@example.com</email>
  </author>
 
