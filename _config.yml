@@ -9,3 +9,4 @@ favicon: ""           # Icon displayed in the tab
 header_text: Welcome to my Jekyll blog
 header_feature_image: ""
 footer_text: Copyright 2017
+theme: jekyll-theme-minimal
