@@ -1,1 +1,11 @@
-theme: jekyll-theme-minimal
+baseurl: ""
+url: "https://nefter.github.io"
+
+title: My Jekyll Blog                 # Name of website
+avatar: ""       # Path of avatar image, to be displayed in the theme's header
+description: My blog posts            # Short description, primarily used by search engines
+favicon: ""           # Icon displayed in the tab
+
+header_text: Welcome to my Jekyll blog
+header_feature_image: ""
+footer_text: Copyright 2017

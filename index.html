@@ -1,0 +1,19 @@
+---
+layout: default
+title: N.R
+---
+
+<div id="home">
+    <h1>Blog post</h1>
+    <ul class="posts">
+        {% for post in site.posts %}
+        <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+        {% endfor %}
+    </ul>
+
+    <h1>Other title</h1>
+    <ul class="posts">
+        <li><span>02 Feb 2000</span> &raquo; <a href="http://example.com">Post title</a></li>
+    </ul>
+
+</div>
