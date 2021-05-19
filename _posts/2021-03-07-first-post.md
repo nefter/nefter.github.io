@@ -10,6 +10,6 @@ title: First post
 
 Test lorem ipsum is [Link](https://example.com/) (pronounced "link"), test.
 
-<a href="http://www.informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/">
-  <img src="http://placehold.it/600x400">
+<a href="https://www.informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/">
+  <img src="https://placehold.it/600x400">
 </a>
